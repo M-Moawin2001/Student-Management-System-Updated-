@@ -1,0 +1,9 @@
+.chart-wrapper {
+  height: calc(100vh - 60px); /* subtract header height */
+  display: flex;
+  justify-content: center; /* horizontal center */
+  align-items: center;     /* vertical center */
+}
+
+
+
